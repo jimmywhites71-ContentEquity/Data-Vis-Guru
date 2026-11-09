@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: animated-gif-for-linkedin
+expected_outcome: |
+  An animated GIF at LinkedIn-appropriate size (square or portrait preset, small file) with a finding title, direct labels, a disclosure line and an honest source line saying the data is synthetic.

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="504pt" viewBox="0 0 576 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-09T20:59:35.741881</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 576 504 
+L 576 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 127.3 433.833 
+L 498.3375 433.833 
+L 498.3375 109.84375 
+L 127.3 109.84375 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #0b0b0b" x="119.7" y="403.944562" transform="rotate(-0 119.7 403.944562)">Gold</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #0b0b0b" x="119.7" y="340.19225" transform="rotate(-0 119.7 340.19225)">Government bonds</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #0b0b0b" x="119.7" y="276.439937" transform="rotate(-0 119.7 276.439937)">Property</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #0b0b0b" x="119.7" y="212.687625" transform="rotate(-0 119.7 212.687625)">Global equities</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #0b0b0b" x="119.7" y="148.935313" transform="rotate(-0 119.7 148.935313)">UK equities</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 223.479271 419.106216 
+L 177.610169 419.106216 
+L 177.610169 379.579782 
+L 223.479271 379.579782 
+z
+" clip-path="url(#p5ae10165e6)" style="fill: #d03b3b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 223.479271 355.353904 
+L 214.857121 355.353904 
+L 214.857121 315.82747 
+L 223.479271 315.82747 
+z
+" clip-path="url(#p5ae10165e6)" style="fill: #d03b3b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 223.479271 291.601592 
+L 234.319224 291.601592 
+L 234.319224 252.075158 
+L 223.479271 252.075158 
+z
+" clip-path="url(#p5ae10165e6)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 223.479271 227.84928 
+L 478.129399 227.84928 
+L 478.129399 188.322846 
+L 223.479271 188.322846 
+z
+" clip-path="url(#p5ae10165e6)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 223.479271 164.096968 
+L 492.048729 164.096968 
+L 492.048729 124.570534 
+L 223.479271 124.570534 
+z
+" clip-path="url(#p5ae10165e6)" style="fill: #2a78d6"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #0b0b0b" x="171.910169" y="402.79881" transform="rotate(-0 171.910169 402.79881)">−4.8%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #0b0b0b" x="209.157121" y="339.046498" transform="rotate(-0 209.157121 339.046498)">−0.9%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="240.019224" y="275.294186" transform="rotate(-0 240.019224 275.294186)">+1.1%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="483.829399" y="211.541873" transform="rotate(-0 483.829399 211.541873)">+26.9%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="497.748729" y="147.789561" transform="rotate(-0 497.748729 147.789561)">+28.4%</text>
+   </g>
+   <g id="line2d_6">
+    <path d="M 223.479271 433.833 
+L 223.479271 109.84375 
+" clip-path="url(#p5ae10165e6)" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+  </g>
+  <g id="title">
+   <text style="font-weight: 600; font-size: 16.15px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="34.2" y="49.845312" transform="rotate(-0 34.2 49.845312)">The last twelve months split the</text>
+  </g>
+  <g id="title">
+   <text style="font-weight: 600; font-size: 16.15px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="34.2" y="70.032812" transform="rotate(-0 34.2 70.032812)">asset classes into winners and losers</text>
+  </g>
+  <g id="subtitle">
+   <text style="font-size: 10.925px; font-family: 'Inter'; text-anchor: start; fill: #52514e" x="34.2" y="88.578594" transform="rotate(-0 34.2 88.578594)">Total return, GBP, Dec 2023 to Dec 2024</text>
+  </g>
+  <g id="footer">
+   <text style="font-size: 8.075px; font-family: 'Inter'; text-anchor: start; fill: #6b6a65" x="34.2" y="455.502222" transform="rotate(-0 34.2 455.502222)">Source: Synthetic data generated for illustration; not real market history. Index levels, total return, GBP, 1 Jan 2014 to 31</text>
+  </g>
+  <g id="footer">
+   <text style="font-size: 8.075px; font-family: 'Inter'; text-anchor: start; fill: #6b6a65" x="34.2" y="466.807222" transform="rotate(-0 34.2 466.807222)">Dec 2024.</text>
+  </g>
+  <g id="footer">
+   <text style="font-size: 8.075px; font-family: 'Inter'; text-anchor: start; fill: #6b6a65" x="34.2" y="478.112222" transform="rotate(-0 34.2 478.112222)">Past performance is not a reliable indicator of future results.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5ae10165e6">
+   <rect x="127.3" y="109.84375" width="371.0375" height="323.98925"/>
+  </clipPath>
+ </defs>
+</svg>

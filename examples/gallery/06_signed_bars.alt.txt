@@ -1,0 +1,1 @@
+Horizontal bar chart of twelve-month returns by asset class, gains in blue and losses in red.

@@ -1,0 +1,1 @@
+Scatter plot of annualised return against volatility for five asset classes and a 60/40 portfolio.

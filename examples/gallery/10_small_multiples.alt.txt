@@ -1,0 +1,1 @@
+Five small line charts, one per asset class, each indexed to 100 in January 2014.

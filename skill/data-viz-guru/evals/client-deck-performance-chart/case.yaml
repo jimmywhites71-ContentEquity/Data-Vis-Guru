@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: client-deck-performance-chart
+expected_outcome: |
+  A single slide-sized PNG whose title states a computed finding, with both series rebased to a common start, direct labels, source and as-of date, and a past-performance statement; the model looked at the image and ran the linter.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: review-misleading-chart
+expected_outcome: |
+  A prioritised critique identifying the dual axis, the cherry-picked short period, the guarantee-style title, the red/green encoding, and the missing source/disclosure, with specific fixes, noting compliance approval is needed.

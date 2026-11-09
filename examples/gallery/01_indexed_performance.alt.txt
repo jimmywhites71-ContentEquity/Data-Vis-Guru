@@ -1,0 +1,1 @@
+Line chart of five asset classes and a 60/40 portfolio indexed to 100 in January 2014. Global equities end at 224 and the 60/40 portfolio at 188; equities fall sharply in 2020 and the portfolio falls less.
